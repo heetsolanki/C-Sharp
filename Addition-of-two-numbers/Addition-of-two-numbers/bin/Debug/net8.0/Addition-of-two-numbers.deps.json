@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Addition-of-two-numbers/1.0.0": {
+        "runtime": {
+          "Addition-of-two-numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Addition-of-two-numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
