@@ -1,0 +1,14 @@
+D:\C#\Area-of-Rectangle\Area-of-Rectangle\bin\Debug\net8.0\Area-of-Rectangle.exe
+D:\C#\Area-of-Rectangle\Area-of-Rectangle\bin\Debug\net8.0\Area-of-Rectangle.deps.json
+D:\C#\Area-of-Rectangle\Area-of-Rectangle\bin\Debug\net8.0\Area-of-Rectangle.runtimeconfig.json
+D:\C#\Area-of-Rectangle\Area-of-Rectangle\bin\Debug\net8.0\Area-of-Rectangle.dll
+D:\C#\Area-of-Rectangle\Area-of-Rectangle\bin\Debug\net8.0\Area-of-Rectangle.pdb
+D:\C#\Area-of-Rectangle\Area-of-Rectangle\obj\Debug\net8.0\Area-of-Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Area-of-Rectangle\Area-of-Rectangle\obj\Debug\net8.0\Area-of-Rectangle.AssemblyInfoInputs.cache
+D:\C#\Area-of-Rectangle\Area-of-Rectangle\obj\Debug\net8.0\Area-of-Rectangle.AssemblyInfo.cs
+D:\C#\Area-of-Rectangle\Area-of-Rectangle\obj\Debug\net8.0\Area-of-Rectangle.csproj.CoreCompileInputs.cache
+D:\C#\Area-of-Rectangle\Area-of-Rectangle\obj\Debug\net8.0\Area-of-Rectangle.dll
+D:\C#\Area-of-Rectangle\Area-of-Rectangle\obj\Debug\net8.0\refint\Area-of-Rectangle.dll
+D:\C#\Area-of-Rectangle\Area-of-Rectangle\obj\Debug\net8.0\Area-of-Rectangle.pdb
+D:\C#\Area-of-Rectangle\Area-of-Rectangle\obj\Debug\net8.0\Area-of-Rectangle.genruntimeconfig.cache
+D:\C#\Area-of-Rectangle\Area-of-Rectangle\obj\Debug\net8.0\ref\Area-of-Rectangle.dll

@@ -1,0 +1,14 @@
+D:\C#\Addition-of-two-numbers\Addition-of-two-numbers\bin\Debug\net8.0\Addition-of-two-numbers.exe
+D:\C#\Addition-of-two-numbers\Addition-of-two-numbers\bin\Debug\net8.0\Addition-of-two-numbers.deps.json
+D:\C#\Addition-of-two-numbers\Addition-of-two-numbers\bin\Debug\net8.0\Addition-of-two-numbers.runtimeconfig.json
+D:\C#\Addition-of-two-numbers\Addition-of-two-numbers\bin\Debug\net8.0\Addition-of-two-numbers.dll
+D:\C#\Addition-of-two-numbers\Addition-of-two-numbers\bin\Debug\net8.0\Addition-of-two-numbers.pdb
+D:\C#\Addition-of-two-numbers\Addition-of-two-numbers\obj\Debug\net8.0\Addition-of-two-numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Addition-of-two-numbers\Addition-of-two-numbers\obj\Debug\net8.0\Addition-of-two-numbers.AssemblyInfoInputs.cache
+D:\C#\Addition-of-two-numbers\Addition-of-two-numbers\obj\Debug\net8.0\Addition-of-two-numbers.AssemblyInfo.cs
+D:\C#\Addition-of-two-numbers\Addition-of-two-numbers\obj\Debug\net8.0\Addition-of-two-numbers.csproj.CoreCompileInputs.cache
+D:\C#\Addition-of-two-numbers\Addition-of-two-numbers\obj\Debug\net8.0\Addition-of-two-numbers.dll
+D:\C#\Addition-of-two-numbers\Addition-of-two-numbers\obj\Debug\net8.0\refint\Addition-of-two-numbers.dll
+D:\C#\Addition-of-two-numbers\Addition-of-two-numbers\obj\Debug\net8.0\Addition-of-two-numbers.pdb
+D:\C#\Addition-of-two-numbers\Addition-of-two-numbers\obj\Debug\net8.0\Addition-of-two-numbers.genruntimeconfig.cache
+D:\C#\Addition-of-two-numbers\Addition-of-two-numbers\obj\Debug\net8.0\ref\Addition-of-two-numbers.dll
