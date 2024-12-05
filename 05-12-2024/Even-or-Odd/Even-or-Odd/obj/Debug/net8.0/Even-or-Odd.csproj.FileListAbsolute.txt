@@ -1,0 +1,14 @@
+D:\C#\Even-or-Odd\Even-or-Odd\bin\Debug\net8.0\Even-or-Odd.exe
+D:\C#\Even-or-Odd\Even-or-Odd\bin\Debug\net8.0\Even-or-Odd.deps.json
+D:\C#\Even-or-Odd\Even-or-Odd\bin\Debug\net8.0\Even-or-Odd.runtimeconfig.json
+D:\C#\Even-or-Odd\Even-or-Odd\bin\Debug\net8.0\Even-or-Odd.dll
+D:\C#\Even-or-Odd\Even-or-Odd\bin\Debug\net8.0\Even-or-Odd.pdb
+D:\C#\Even-or-Odd\Even-or-Odd\obj\Debug\net8.0\Even-or-Odd.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Even-or-Odd\Even-or-Odd\obj\Debug\net8.0\Even-or-Odd.AssemblyInfoInputs.cache
+D:\C#\Even-or-Odd\Even-or-Odd\obj\Debug\net8.0\Even-or-Odd.AssemblyInfo.cs
+D:\C#\Even-or-Odd\Even-or-Odd\obj\Debug\net8.0\Even-or-Odd.csproj.CoreCompileInputs.cache
+D:\C#\Even-or-Odd\Even-or-Odd\obj\Debug\net8.0\Even-or-Odd.dll
+D:\C#\Even-or-Odd\Even-or-Odd\obj\Debug\net8.0\refint\Even-or-Odd.dll
+D:\C#\Even-or-Odd\Even-or-Odd\obj\Debug\net8.0\Even-or-Odd.pdb
+D:\C#\Even-or-Odd\Even-or-Odd\obj\Debug\net8.0\Even-or-Odd.genruntimeconfig.cache
+D:\C#\Even-or-Odd\Even-or-Odd\obj\Debug\net8.0\ref\Even-or-Odd.dll
