@@ -1,0 +1,14 @@
+D:\C#\Positive and Negative Numbers\Positive and Negative Numbers\bin\Debug\net8.0\Positive and Negative Numbers.exe
+D:\C#\Positive and Negative Numbers\Positive and Negative Numbers\bin\Debug\net8.0\Positive and Negative Numbers.deps.json
+D:\C#\Positive and Negative Numbers\Positive and Negative Numbers\bin\Debug\net8.0\Positive and Negative Numbers.runtimeconfig.json
+D:\C#\Positive and Negative Numbers\Positive and Negative Numbers\bin\Debug\net8.0\Positive and Negative Numbers.dll
+D:\C#\Positive and Negative Numbers\Positive and Negative Numbers\bin\Debug\net8.0\Positive and Negative Numbers.pdb
+D:\C#\Positive and Negative Numbers\Positive and Negative Numbers\obj\Debug\net8.0\Positive and Negative Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Positive and Negative Numbers\Positive and Negative Numbers\obj\Debug\net8.0\Positive and Negative Numbers.AssemblyInfoInputs.cache
+D:\C#\Positive and Negative Numbers\Positive and Negative Numbers\obj\Debug\net8.0\Positive and Negative Numbers.AssemblyInfo.cs
+D:\C#\Positive and Negative Numbers\Positive and Negative Numbers\obj\Debug\net8.0\Positive and Negative Numbers.csproj.CoreCompileInputs.cache
+D:\C#\Positive and Negative Numbers\Positive and Negative Numbers\obj\Debug\net8.0\Positive and Negative Numbers.dll
+D:\C#\Positive and Negative Numbers\Positive and Negative Numbers\obj\Debug\net8.0\refint\Positive and Negative Numbers.dll
+D:\C#\Positive and Negative Numbers\Positive and Negative Numbers\obj\Debug\net8.0\Positive and Negative Numbers.pdb
+D:\C#\Positive and Negative Numbers\Positive and Negative Numbers\obj\Debug\net8.0\Positive and Negative Numbers.genruntimeconfig.cache
+D:\C#\Positive and Negative Numbers\Positive and Negative Numbers\obj\Debug\net8.0\ref\Positive and Negative Numbers.dll

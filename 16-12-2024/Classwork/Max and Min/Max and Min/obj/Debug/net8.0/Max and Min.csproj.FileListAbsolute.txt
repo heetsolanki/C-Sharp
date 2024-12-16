@@ -1,0 +1,14 @@
+D:\C#\Max and Min\Max and Min\obj\Debug\net8.0\Max and Min.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Max and Min\Max and Min\obj\Debug\net8.0\Max and Min.AssemblyInfoInputs.cache
+D:\C#\Max and Min\Max and Min\obj\Debug\net8.0\Max and Min.AssemblyInfo.cs
+D:\C#\Max and Min\Max and Min\obj\Debug\net8.0\Max and Min.csproj.CoreCompileInputs.cache
+D:\C#\Max and Min\Max and Min\bin\Debug\net8.0\Max and Min.exe
+D:\C#\Max and Min\Max and Min\bin\Debug\net8.0\Max and Min.deps.json
+D:\C#\Max and Min\Max and Min\bin\Debug\net8.0\Max and Min.runtimeconfig.json
+D:\C#\Max and Min\Max and Min\bin\Debug\net8.0\Max and Min.dll
+D:\C#\Max and Min\Max and Min\bin\Debug\net8.0\Max and Min.pdb
+D:\C#\Max and Min\Max and Min\obj\Debug\net8.0\Max and Min.dll
+D:\C#\Max and Min\Max and Min\obj\Debug\net8.0\refint\Max and Min.dll
+D:\C#\Max and Min\Max and Min\obj\Debug\net8.0\Max and Min.pdb
+D:\C#\Max and Min\Max and Min\obj\Debug\net8.0\Max and Min.genruntimeconfig.cache
+D:\C#\Max and Min\Max and Min\obj\Debug\net8.0\ref\Max and Min.dll
