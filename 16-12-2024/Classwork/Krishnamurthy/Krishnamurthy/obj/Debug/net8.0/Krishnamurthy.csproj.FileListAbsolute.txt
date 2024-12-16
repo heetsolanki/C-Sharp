@@ -1,0 +1,14 @@
+D:\C#\Krishnamurthy\Krishnamurthy\bin\Debug\net8.0\Krishnamurthy.exe
+D:\C#\Krishnamurthy\Krishnamurthy\bin\Debug\net8.0\Krishnamurthy.deps.json
+D:\C#\Krishnamurthy\Krishnamurthy\bin\Debug\net8.0\Krishnamurthy.runtimeconfig.json
+D:\C#\Krishnamurthy\Krishnamurthy\bin\Debug\net8.0\Krishnamurthy.dll
+D:\C#\Krishnamurthy\Krishnamurthy\bin\Debug\net8.0\Krishnamurthy.pdb
+D:\C#\Krishnamurthy\Krishnamurthy\obj\Debug\net8.0\Krishnamurthy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Krishnamurthy\Krishnamurthy\obj\Debug\net8.0\Krishnamurthy.AssemblyInfoInputs.cache
+D:\C#\Krishnamurthy\Krishnamurthy\obj\Debug\net8.0\Krishnamurthy.AssemblyInfo.cs
+D:\C#\Krishnamurthy\Krishnamurthy\obj\Debug\net8.0\Krishnamurthy.csproj.CoreCompileInputs.cache
+D:\C#\Krishnamurthy\Krishnamurthy\obj\Debug\net8.0\Krishnamurthy.dll
+D:\C#\Krishnamurthy\Krishnamurthy\obj\Debug\net8.0\refint\Krishnamurthy.dll
+D:\C#\Krishnamurthy\Krishnamurthy\obj\Debug\net8.0\Krishnamurthy.pdb
+D:\C#\Krishnamurthy\Krishnamurthy\obj\Debug\net8.0\Krishnamurthy.genruntimeconfig.cache
+D:\C#\Krishnamurthy\Krishnamurthy\obj\Debug\net8.0\ref\Krishnamurthy.dll
