@@ -1,0 +1,14 @@
+D:\C#\Subtracting 3x3 Matrix\Subtracting 3x3 Matrix\bin\Debug\net8.0\Subtracting 3x3 Matrix.exe
+D:\C#\Subtracting 3x3 Matrix\Subtracting 3x3 Matrix\bin\Debug\net8.0\Subtracting 3x3 Matrix.deps.json
+D:\C#\Subtracting 3x3 Matrix\Subtracting 3x3 Matrix\bin\Debug\net8.0\Subtracting 3x3 Matrix.runtimeconfig.json
+D:\C#\Subtracting 3x3 Matrix\Subtracting 3x3 Matrix\bin\Debug\net8.0\Subtracting 3x3 Matrix.dll
+D:\C#\Subtracting 3x3 Matrix\Subtracting 3x3 Matrix\bin\Debug\net8.0\Subtracting 3x3 Matrix.pdb
+D:\C#\Subtracting 3x3 Matrix\Subtracting 3x3 Matrix\obj\Debug\net8.0\Subtracting 3x3 Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Subtracting 3x3 Matrix\Subtracting 3x3 Matrix\obj\Debug\net8.0\Subtracting 3x3 Matrix.AssemblyInfoInputs.cache
+D:\C#\Subtracting 3x3 Matrix\Subtracting 3x3 Matrix\obj\Debug\net8.0\Subtracting 3x3 Matrix.AssemblyInfo.cs
+D:\C#\Subtracting 3x3 Matrix\Subtracting 3x3 Matrix\obj\Debug\net8.0\Subtracting 3x3 Matrix.csproj.CoreCompileInputs.cache
+D:\C#\Subtracting 3x3 Matrix\Subtracting 3x3 Matrix\obj\Debug\net8.0\Subtracting 3x3 Matrix.dll
+D:\C#\Subtracting 3x3 Matrix\Subtracting 3x3 Matrix\obj\Debug\net8.0\refint\Subtracting 3x3 Matrix.dll
+D:\C#\Subtracting 3x3 Matrix\Subtracting 3x3 Matrix\obj\Debug\net8.0\Subtracting 3x3 Matrix.pdb
+D:\C#\Subtracting 3x3 Matrix\Subtracting 3x3 Matrix\obj\Debug\net8.0\Subtracting 3x3 Matrix.genruntimeconfig.cache
+D:\C#\Subtracting 3x3 Matrix\Subtracting 3x3 Matrix\obj\Debug\net8.0\ref\Subtracting 3x3 Matrix.dll
