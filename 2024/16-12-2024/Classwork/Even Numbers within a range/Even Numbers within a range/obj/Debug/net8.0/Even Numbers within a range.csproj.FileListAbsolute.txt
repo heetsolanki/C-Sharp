@@ -1,0 +1,14 @@
+D:\C#\Even Numbers within a range\Even Numbers within a range\bin\Debug\net8.0\Even Numbers within a range.exe
+D:\C#\Even Numbers within a range\Even Numbers within a range\bin\Debug\net8.0\Even Numbers within a range.deps.json
+D:\C#\Even Numbers within a range\Even Numbers within a range\bin\Debug\net8.0\Even Numbers within a range.runtimeconfig.json
+D:\C#\Even Numbers within a range\Even Numbers within a range\bin\Debug\net8.0\Even Numbers within a range.dll
+D:\C#\Even Numbers within a range\Even Numbers within a range\bin\Debug\net8.0\Even Numbers within a range.pdb
+D:\C#\Even Numbers within a range\Even Numbers within a range\obj\Debug\net8.0\Even Numbers within a range.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Even Numbers within a range\Even Numbers within a range\obj\Debug\net8.0\Even Numbers within a range.AssemblyInfoInputs.cache
+D:\C#\Even Numbers within a range\Even Numbers within a range\obj\Debug\net8.0\Even Numbers within a range.AssemblyInfo.cs
+D:\C#\Even Numbers within a range\Even Numbers within a range\obj\Debug\net8.0\Even Numbers within a range.csproj.CoreCompileInputs.cache
+D:\C#\Even Numbers within a range\Even Numbers within a range\obj\Debug\net8.0\Even Numbers within a range.dll
+D:\C#\Even Numbers within a range\Even Numbers within a range\obj\Debug\net8.0\refint\Even Numbers within a range.dll
+D:\C#\Even Numbers within a range\Even Numbers within a range\obj\Debug\net8.0\Even Numbers within a range.pdb
+D:\C#\Even Numbers within a range\Even Numbers within a range\obj\Debug\net8.0\Even Numbers within a range.genruntimeconfig.cache
+D:\C#\Even Numbers within a range\Even Numbers within a range\obj\Debug\net8.0\ref\Even Numbers within a range.dll

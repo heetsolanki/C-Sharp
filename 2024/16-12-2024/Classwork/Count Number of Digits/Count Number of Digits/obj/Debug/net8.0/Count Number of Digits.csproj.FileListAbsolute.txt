@@ -1,0 +1,14 @@
+D:\C#\Count Number of Digits\Count Number of Digits\bin\Debug\net8.0\Count Number of Digits.exe
+D:\C#\Count Number of Digits\Count Number of Digits\bin\Debug\net8.0\Count Number of Digits.deps.json
+D:\C#\Count Number of Digits\Count Number of Digits\bin\Debug\net8.0\Count Number of Digits.runtimeconfig.json
+D:\C#\Count Number of Digits\Count Number of Digits\bin\Debug\net8.0\Count Number of Digits.dll
+D:\C#\Count Number of Digits\Count Number of Digits\bin\Debug\net8.0\Count Number of Digits.pdb
+D:\C#\Count Number of Digits\Count Number of Digits\obj\Debug\net8.0\Count Number of Digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Count Number of Digits\Count Number of Digits\obj\Debug\net8.0\Count Number of Digits.AssemblyInfoInputs.cache
+D:\C#\Count Number of Digits\Count Number of Digits\obj\Debug\net8.0\Count Number of Digits.AssemblyInfo.cs
+D:\C#\Count Number of Digits\Count Number of Digits\obj\Debug\net8.0\Count Number of Digits.csproj.CoreCompileInputs.cache
+D:\C#\Count Number of Digits\Count Number of Digits\obj\Debug\net8.0\Count Number of Digits.dll
+D:\C#\Count Number of Digits\Count Number of Digits\obj\Debug\net8.0\refint\Count Number of Digits.dll
+D:\C#\Count Number of Digits\Count Number of Digits\obj\Debug\net8.0\Count Number of Digits.pdb
+D:\C#\Count Number of Digits\Count Number of Digits\obj\Debug\net8.0\Count Number of Digits.genruntimeconfig.cache
+D:\C#\Count Number of Digits\Count Number of Digits\obj\Debug\net8.0\ref\Count Number of Digits.dll
