@@ -1,0 +1,14 @@
+D:\C#\HappyNumber\HappyNumber\obj\Debug\net8.0\HappyNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\HappyNumber\HappyNumber\obj\Debug\net8.0\HappyNumber.AssemblyInfoInputs.cache
+D:\C#\HappyNumber\HappyNumber\obj\Debug\net8.0\HappyNumber.AssemblyInfo.cs
+D:\C#\HappyNumber\HappyNumber\obj\Debug\net8.0\HappyNumber.csproj.CoreCompileInputs.cache
+D:\C#\HappyNumber\HappyNumber\bin\Debug\net8.0\HappyNumber.exe
+D:\C#\HappyNumber\HappyNumber\bin\Debug\net8.0\HappyNumber.deps.json
+D:\C#\HappyNumber\HappyNumber\bin\Debug\net8.0\HappyNumber.runtimeconfig.json
+D:\C#\HappyNumber\HappyNumber\bin\Debug\net8.0\HappyNumber.dll
+D:\C#\HappyNumber\HappyNumber\bin\Debug\net8.0\HappyNumber.pdb
+D:\C#\HappyNumber\HappyNumber\obj\Debug\net8.0\HappyNumber.dll
+D:\C#\HappyNumber\HappyNumber\obj\Debug\net8.0\refint\HappyNumber.dll
+D:\C#\HappyNumber\HappyNumber\obj\Debug\net8.0\HappyNumber.pdb
+D:\C#\HappyNumber\HappyNumber\obj\Debug\net8.0\HappyNumber.genruntimeconfig.cache
+D:\C#\HappyNumber\HappyNumber\obj\Debug\net8.0\ref\HappyNumber.dll
