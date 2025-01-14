@@ -1,0 +1,14 @@
+D:\C#\ParameterizedConstructors\ParameterizedConstructors\bin\Debug\net8.0\ParameterizedConstructors.exe
+D:\C#\ParameterizedConstructors\ParameterizedConstructors\bin\Debug\net8.0\ParameterizedConstructors.deps.json
+D:\C#\ParameterizedConstructors\ParameterizedConstructors\bin\Debug\net8.0\ParameterizedConstructors.runtimeconfig.json
+D:\C#\ParameterizedConstructors\ParameterizedConstructors\bin\Debug\net8.0\ParameterizedConstructors.dll
+D:\C#\ParameterizedConstructors\ParameterizedConstructors\bin\Debug\net8.0\ParameterizedConstructors.pdb
+D:\C#\ParameterizedConstructors\ParameterizedConstructors\obj\Debug\net8.0\ParameterizedConstructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ParameterizedConstructors\ParameterizedConstructors\obj\Debug\net8.0\ParameterizedConstructors.AssemblyInfoInputs.cache
+D:\C#\ParameterizedConstructors\ParameterizedConstructors\obj\Debug\net8.0\ParameterizedConstructors.AssemblyInfo.cs
+D:\C#\ParameterizedConstructors\ParameterizedConstructors\obj\Debug\net8.0\ParameterizedConstructors.csproj.CoreCompileInputs.cache
+D:\C#\ParameterizedConstructors\ParameterizedConstructors\obj\Debug\net8.0\ParameterizedConstructors.dll
+D:\C#\ParameterizedConstructors\ParameterizedConstructors\obj\Debug\net8.0\refint\ParameterizedConstructors.dll
+D:\C#\ParameterizedConstructors\ParameterizedConstructors\obj\Debug\net8.0\ParameterizedConstructors.pdb
+D:\C#\ParameterizedConstructors\ParameterizedConstructors\obj\Debug\net8.0\ParameterizedConstructors.genruntimeconfig.cache
+D:\C#\ParameterizedConstructors\ParameterizedConstructors\obj\Debug\net8.0\ref\ParameterizedConstructors.dll
