@@ -1,0 +1,14 @@
+D:\C#\ASP.Net\MultilevelInheritance\MultilevelInheritance\bin\Debug\net8.0\MultilevelInheritance.exe
+D:\C#\ASP.Net\MultilevelInheritance\MultilevelInheritance\bin\Debug\net8.0\MultilevelInheritance.deps.json
+D:\C#\ASP.Net\MultilevelInheritance\MultilevelInheritance\bin\Debug\net8.0\MultilevelInheritance.runtimeconfig.json
+D:\C#\ASP.Net\MultilevelInheritance\MultilevelInheritance\bin\Debug\net8.0\MultilevelInheritance.dll
+D:\C#\ASP.Net\MultilevelInheritance\MultilevelInheritance\bin\Debug\net8.0\MultilevelInheritance.pdb
+D:\C#\ASP.Net\MultilevelInheritance\MultilevelInheritance\obj\Debug\net8.0\MultilevelInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ASP.Net\MultilevelInheritance\MultilevelInheritance\obj\Debug\net8.0\MultilevelInheritance.AssemblyInfoInputs.cache
+D:\C#\ASP.Net\MultilevelInheritance\MultilevelInheritance\obj\Debug\net8.0\MultilevelInheritance.AssemblyInfo.cs
+D:\C#\ASP.Net\MultilevelInheritance\MultilevelInheritance\obj\Debug\net8.0\MultilevelInheritance.csproj.CoreCompileInputs.cache
+D:\C#\ASP.Net\MultilevelInheritance\MultilevelInheritance\obj\Debug\net8.0\MultilevelInheritance.dll
+D:\C#\ASP.Net\MultilevelInheritance\MultilevelInheritance\obj\Debug\net8.0\refint\MultilevelInheritance.dll
+D:\C#\ASP.Net\MultilevelInheritance\MultilevelInheritance\obj\Debug\net8.0\MultilevelInheritance.pdb
+D:\C#\ASP.Net\MultilevelInheritance\MultilevelInheritance\obj\Debug\net8.0\MultilevelInheritance.genruntimeconfig.cache
+D:\C#\ASP.Net\MultilevelInheritance\MultilevelInheritance\obj\Debug\net8.0\ref\MultilevelInheritance.dll

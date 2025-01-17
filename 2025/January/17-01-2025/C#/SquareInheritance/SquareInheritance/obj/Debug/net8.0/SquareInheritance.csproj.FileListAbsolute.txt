@@ -1,0 +1,14 @@
+D:\C#\ASP.Net\SquareInheritance\SquareInheritance\obj\Debug\net8.0\SquareInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ASP.Net\SquareInheritance\SquareInheritance\obj\Debug\net8.0\SquareInheritance.AssemblyInfoInputs.cache
+D:\C#\ASP.Net\SquareInheritance\SquareInheritance\obj\Debug\net8.0\SquareInheritance.AssemblyInfo.cs
+D:\C#\ASP.Net\SquareInheritance\SquareInheritance\obj\Debug\net8.0\SquareInheritance.csproj.CoreCompileInputs.cache
+D:\C#\ASP.Net\SquareInheritance\SquareInheritance\bin\Debug\net8.0\SquareInheritance.exe
+D:\C#\ASP.Net\SquareInheritance\SquareInheritance\bin\Debug\net8.0\SquareInheritance.deps.json
+D:\C#\ASP.Net\SquareInheritance\SquareInheritance\bin\Debug\net8.0\SquareInheritance.runtimeconfig.json
+D:\C#\ASP.Net\SquareInheritance\SquareInheritance\bin\Debug\net8.0\SquareInheritance.dll
+D:\C#\ASP.Net\SquareInheritance\SquareInheritance\bin\Debug\net8.0\SquareInheritance.pdb
+D:\C#\ASP.Net\SquareInheritance\SquareInheritance\obj\Debug\net8.0\SquareInheritance.dll
+D:\C#\ASP.Net\SquareInheritance\SquareInheritance\obj\Debug\net8.0\refint\SquareInheritance.dll
+D:\C#\ASP.Net\SquareInheritance\SquareInheritance\obj\Debug\net8.0\SquareInheritance.pdb
+D:\C#\ASP.Net\SquareInheritance\SquareInheritance\obj\Debug\net8.0\SquareInheritance.genruntimeconfig.cache
+D:\C#\ASP.Net\SquareInheritance\SquareInheritance\obj\Debug\net8.0\ref\SquareInheritance.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\ASP.Net\\MultilevelInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{447AFA7F-8E5E-4132-9B2F-D8DD75DBFBC9}|MultilevelInheritance\\MultilevelInheritance.csproj|d:\\c#\\asp.net\\multilevelinheritance\\multilevelinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447AFA7F-8E5E-4132-9B2F-D8DD75DBFBC9}|MultilevelInheritance\\MultilevelInheritance.csproj|solutionrelative:multilevelinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\ASP.Net\\MultilevelInheritance\\MultilevelInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "MultilevelInheritance\\Program.cs",
+              "ToolTip": "D:\\C#\\ASP.Net\\MultilevelInheritance\\MultilevelInheritance\\Program.cs",
+              "RelativeToolTip": "MultilevelInheritance\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAApwCgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:00:57.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
