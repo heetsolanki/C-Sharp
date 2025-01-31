@@ -1,0 +1,14 @@
+D:\C#\ASP.Net\ThrowKeyword\ThrowKeyword\bin\Debug\net8.0\ThrowKeyword.exe
+D:\C#\ASP.Net\ThrowKeyword\ThrowKeyword\bin\Debug\net8.0\ThrowKeyword.deps.json
+D:\C#\ASP.Net\ThrowKeyword\ThrowKeyword\bin\Debug\net8.0\ThrowKeyword.runtimeconfig.json
+D:\C#\ASP.Net\ThrowKeyword\ThrowKeyword\bin\Debug\net8.0\ThrowKeyword.dll
+D:\C#\ASP.Net\ThrowKeyword\ThrowKeyword\bin\Debug\net8.0\ThrowKeyword.pdb
+D:\C#\ASP.Net\ThrowKeyword\ThrowKeyword\obj\Debug\net8.0\ThrowKeyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ASP.Net\ThrowKeyword\ThrowKeyword\obj\Debug\net8.0\ThrowKeyword.AssemblyInfoInputs.cache
+D:\C#\ASP.Net\ThrowKeyword\ThrowKeyword\obj\Debug\net8.0\ThrowKeyword.AssemblyInfo.cs
+D:\C#\ASP.Net\ThrowKeyword\ThrowKeyword\obj\Debug\net8.0\ThrowKeyword.csproj.CoreCompileInputs.cache
+D:\C#\ASP.Net\ThrowKeyword\ThrowKeyword\obj\Debug\net8.0\ThrowKeyword.dll
+D:\C#\ASP.Net\ThrowKeyword\ThrowKeyword\obj\Debug\net8.0\refint\ThrowKeyword.dll
+D:\C#\ASP.Net\ThrowKeyword\ThrowKeyword\obj\Debug\net8.0\ThrowKeyword.pdb
+D:\C#\ASP.Net\ThrowKeyword\ThrowKeyword\obj\Debug\net8.0\ThrowKeyword.genruntimeconfig.cache
+D:\C#\ASP.Net\ThrowKeyword\ThrowKeyword\obj\Debug\net8.0\ref\ThrowKeyword.dll

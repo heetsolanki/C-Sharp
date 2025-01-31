@@ -1,0 +1,14 @@
+D:\C#\ASP.Net\Pattern3\Pattern3\bin\Debug\net8.0\Pattern3.exe
+D:\C#\ASP.Net\Pattern3\Pattern3\bin\Debug\net8.0\Pattern3.deps.json
+D:\C#\ASP.Net\Pattern3\Pattern3\bin\Debug\net8.0\Pattern3.runtimeconfig.json
+D:\C#\ASP.Net\Pattern3\Pattern3\bin\Debug\net8.0\Pattern3.dll
+D:\C#\ASP.Net\Pattern3\Pattern3\bin\Debug\net8.0\Pattern3.pdb
+D:\C#\ASP.Net\Pattern3\Pattern3\obj\Debug\net8.0\Pattern3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ASP.Net\Pattern3\Pattern3\obj\Debug\net8.0\Pattern3.AssemblyInfoInputs.cache
+D:\C#\ASP.Net\Pattern3\Pattern3\obj\Debug\net8.0\Pattern3.AssemblyInfo.cs
+D:\C#\ASP.Net\Pattern3\Pattern3\obj\Debug\net8.0\Pattern3.csproj.CoreCompileInputs.cache
+D:\C#\ASP.Net\Pattern3\Pattern3\obj\Debug\net8.0\Pattern3.dll
+D:\C#\ASP.Net\Pattern3\Pattern3\obj\Debug\net8.0\refint\Pattern3.dll
+D:\C#\ASP.Net\Pattern3\Pattern3\obj\Debug\net8.0\Pattern3.pdb
+D:\C#\ASP.Net\Pattern3\Pattern3\obj\Debug\net8.0\Pattern3.genruntimeconfig.cache
+D:\C#\ASP.Net\Pattern3\Pattern3\obj\Debug\net8.0\ref\Pattern3.dll

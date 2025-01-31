@@ -1,0 +1,14 @@
+D:\C#\ASP.Net\LowBankBalanceException\LowBankBalanceException\bin\Debug\net8.0\LowBankBalanceException.exe
+D:\C#\ASP.Net\LowBankBalanceException\LowBankBalanceException\bin\Debug\net8.0\LowBankBalanceException.deps.json
+D:\C#\ASP.Net\LowBankBalanceException\LowBankBalanceException\bin\Debug\net8.0\LowBankBalanceException.runtimeconfig.json
+D:\C#\ASP.Net\LowBankBalanceException\LowBankBalanceException\bin\Debug\net8.0\LowBankBalanceException.dll
+D:\C#\ASP.Net\LowBankBalanceException\LowBankBalanceException\bin\Debug\net8.0\LowBankBalanceException.pdb
+D:\C#\ASP.Net\LowBankBalanceException\LowBankBalanceException\obj\Debug\net8.0\LowBankBalanceException.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ASP.Net\LowBankBalanceException\LowBankBalanceException\obj\Debug\net8.0\LowBankBalanceException.AssemblyInfoInputs.cache
+D:\C#\ASP.Net\LowBankBalanceException\LowBankBalanceException\obj\Debug\net8.0\LowBankBalanceException.AssemblyInfo.cs
+D:\C#\ASP.Net\LowBankBalanceException\LowBankBalanceException\obj\Debug\net8.0\LowBankBalanceException.csproj.CoreCompileInputs.cache
+D:\C#\ASP.Net\LowBankBalanceException\LowBankBalanceException\obj\Debug\net8.0\LowBankBalanceException.dll
+D:\C#\ASP.Net\LowBankBalanceException\LowBankBalanceException\obj\Debug\net8.0\refint\LowBankBalanceException.dll
+D:\C#\ASP.Net\LowBankBalanceException\LowBankBalanceException\obj\Debug\net8.0\LowBankBalanceException.pdb
+D:\C#\ASP.Net\LowBankBalanceException\LowBankBalanceException\obj\Debug\net8.0\LowBankBalanceException.genruntimeconfig.cache
+D:\C#\ASP.Net\LowBankBalanceException\LowBankBalanceException\obj\Debug\net8.0\ref\LowBankBalanceException.dll

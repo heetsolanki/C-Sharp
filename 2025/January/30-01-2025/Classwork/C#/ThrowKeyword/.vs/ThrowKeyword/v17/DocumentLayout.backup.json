@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\ASP.Net\\ThrowKeyword\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA572969-C4BE-44F8-B6E6-D55F12A89937}|ThrowKeyword\\ThrowKeyword.csproj|d:\\c#\\asp.net\\throwkeyword\\throwkeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA572969-C4BE-44F8-B6E6-D55F12A89937}|ThrowKeyword\\ThrowKeyword.csproj|solutionrelative:throwkeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\ASP.Net\\ThrowKeyword\\ThrowKeyword\\Program.cs",
+              "RelativeDocumentMoniker": "ThrowKeyword\\Program.cs",
+              "ToolTip": "D:\\C#\\ASP.Net\\ThrowKeyword\\ThrowKeyword\\Program.cs",
+              "RelativeToolTip": "ThrowKeyword\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:42:40.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

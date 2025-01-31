@@ -1,0 +1,14 @@
+D:\C#\ASP.Net\PerformOperations\PerformOperations\bin\Debug\net8.0\PerformOperations.exe
+D:\C#\ASP.Net\PerformOperations\PerformOperations\bin\Debug\net8.0\PerformOperations.deps.json
+D:\C#\ASP.Net\PerformOperations\PerformOperations\bin\Debug\net8.0\PerformOperations.runtimeconfig.json
+D:\C#\ASP.Net\PerformOperations\PerformOperations\bin\Debug\net8.0\PerformOperations.dll
+D:\C#\ASP.Net\PerformOperations\PerformOperations\bin\Debug\net8.0\PerformOperations.pdb
+D:\C#\ASP.Net\PerformOperations\PerformOperations\obj\Debug\net8.0\PerformOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ASP.Net\PerformOperations\PerformOperations\obj\Debug\net8.0\PerformOperations.AssemblyInfoInputs.cache
+D:\C#\ASP.Net\PerformOperations\PerformOperations\obj\Debug\net8.0\PerformOperations.AssemblyInfo.cs
+D:\C#\ASP.Net\PerformOperations\PerformOperations\obj\Debug\net8.0\PerformOperations.csproj.CoreCompileInputs.cache
+D:\C#\ASP.Net\PerformOperations\PerformOperations\obj\Debug\net8.0\PerformOperations.dll
+D:\C#\ASP.Net\PerformOperations\PerformOperations\obj\Debug\net8.0\refint\PerformOperations.dll
+D:\C#\ASP.Net\PerformOperations\PerformOperations\obj\Debug\net8.0\PerformOperations.pdb
+D:\C#\ASP.Net\PerformOperations\PerformOperations\obj\Debug\net8.0\PerformOperations.genruntimeconfig.cache
+D:\C#\ASP.Net\PerformOperations\PerformOperations\obj\Debug\net8.0\ref\PerformOperations.dll
