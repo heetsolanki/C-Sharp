@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cube using reference variable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9b01b224073dd19bd01bce4bc3d3d7aa93ccb2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cube using reference variable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cube using reference variable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

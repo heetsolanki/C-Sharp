@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Add using functions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9b01b224073dd19bd01bce4bc3d3d7aa93ccb2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Add using functions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Add using functions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
