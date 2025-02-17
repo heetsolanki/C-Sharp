@@ -1,0 +1,7 @@
+D:\C#\ASP.Net\BookArray\BookArray\bin\Debug\BookArray.exe.config
+D:\C#\ASP.Net\BookArray\BookArray\bin\Debug\BookArray.exe
+D:\C#\ASP.Net\BookArray\BookArray\bin\Debug\BookArray.pdb
+D:\C#\ASP.Net\BookArray\BookArray\obj\Debug\BookArray.csproj.AssemblyReference.cache
+D:\C#\ASP.Net\BookArray\BookArray\obj\Debug\BookArray.csproj.CoreCompileInputs.cache
+D:\C#\ASP.Net\BookArray\BookArray\obj\Debug\BookArray.exe
+D:\C#\ASP.Net\BookArray\BookArray\obj\Debug\BookArray.pdb

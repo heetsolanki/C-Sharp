@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\ASP.Net\\AdRotator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7022802F-6A89-4E98-90E7-01E7295AD3FA}|AdRotator\\AdRotator.csproj|d:\\c#\\asp.net\\adrotator\\adrotator\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7022802F-6A89-4E98-90E7-01E7295AD3FA}|AdRotator\\AdRotator.csproj|solutionrelative:adrotator\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7022802F-6A89-4E98-90E7-01E7295AD3FA}|AdRotator\\AdRotator.csproj|d:\\c#\\asp.net\\adrotator\\adrotator\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7022802F-6A89-4E98-90E7-01E7295AD3FA}|AdRotator\\AdRotator.csproj|solutionrelative:adrotator\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XMLFile1.xml",
+              "DocumentMoniker": "D:\\C#\\ASP.Net\\AdRotator\\AdRotator\\XMLFile1.xml",
+              "RelativeDocumentMoniker": "AdRotator\\XMLFile1.xml",
+              "ToolTip": "D:\\C#\\ASP.Net\\AdRotator\\AdRotator\\XMLFile1.xml",
+              "RelativeToolTip": "AdRotator\\XMLFile1.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-02-17T13:06:52.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.aspx",
+              "DocumentMoniker": "D:\\C#\\ASP.Net\\AdRotator\\AdRotator\\index.aspx",
+              "RelativeDocumentMoniker": "AdRotator\\index.aspx",
+              "ToolTip": "D:\\C#\\ASP.Net\\AdRotator\\AdRotator\\index.aspx",
+              "RelativeToolTip": "AdRotator\\index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-17T13:06:40.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

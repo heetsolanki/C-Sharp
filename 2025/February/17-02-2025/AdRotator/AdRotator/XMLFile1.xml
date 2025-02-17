@@ -1,0 +1,26 @@
+﻿<Advertisements>
+	<Ad>
+		<ImageUrl>~/AdImage/book.png</ImageUrl>
+		<AlternateText>Book</AlternateText>
+		<Impressions>50</Impressions>
+		<Keyword>banner</Keyword>
+		<Height>250px</Height>
+		<Width>250px</Width>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/AdImage/pen.png</ImageUrl>
+		<AlternateText>Pen</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>banner</Keyword>
+		<Height>250px</Height>
+		<Width>250px</Width>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/AdImage/eraser.png</ImageUrl>
+		<AlternateText>Eraser</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>banner</Keyword>
+		<Height>250px</Height>
+		<Width>250px</Width>
+	</Ad>
+</Advertisements>
