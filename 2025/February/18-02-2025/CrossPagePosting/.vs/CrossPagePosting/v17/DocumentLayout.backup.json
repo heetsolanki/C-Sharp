@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\ASP.Net\\CrossPagePosting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F2EC58-73BE-4C28-8123-3134050203F2}|CrossPagePosting\\CrossPagePosting.csproj|d:\\c#\\asp.net\\crosspageposting\\crosspageposting\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F4F2EC58-73BE-4C28-8123-3134050203F2}|CrossPagePosting\\CrossPagePosting.csproj|solutionrelative:crosspageposting\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F2EC58-73BE-4C28-8123-3134050203F2}|CrossPagePosting\\CrossPagePosting.csproj|d:\\c#\\asp.net\\crosspageposting\\crosspageposting\\pyament-page.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F4F2EC58-73BE-4C28-8123-3134050203F2}|CrossPagePosting\\CrossPagePosting.csproj|solutionrelative:crosspageposting\\pyament-page.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F2EC58-73BE-4C28-8123-3134050203F2}|CrossPagePosting\\CrossPagePosting.csproj|d:\\c#\\asp.net\\crosspageposting\\crosspageposting\\pyament-page.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F2EC58-73BE-4C28-8123-3134050203F2}|CrossPagePosting\\CrossPagePosting.csproj|solutionrelative:crosspageposting\\pyament-page.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F2EC58-73BE-4C28-8123-3134050203F2}|CrossPagePosting\\CrossPagePosting.csproj|d:\\c#\\asp.net\\crosspageposting\\crosspageposting\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F2EC58-73BE-4C28-8123-3134050203F2}|CrossPagePosting\\CrossPagePosting.csproj|solutionrelative:crosspageposting\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pyament-page.aspx.cs",
+              "DocumentMoniker": "D:\\C#\\ASP.Net\\CrossPagePosting\\CrossPagePosting\\pyament-page.aspx.cs",
+              "RelativeDocumentMoniker": "CrossPagePosting\\pyament-page.aspx.cs",
+              "ToolTip": "D:\\C#\\ASP.Net\\CrossPagePosting\\CrossPagePosting\\pyament-page.aspx.cs",
+              "RelativeToolTip": "CrossPagePosting\\pyament-page.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:04:26.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.aspx.cs",
+              "DocumentMoniker": "D:\\C#\\ASP.Net\\CrossPagePosting\\CrossPagePosting\\index.aspx.cs",
+              "RelativeDocumentMoniker": "CrossPagePosting\\index.aspx.cs",
+              "ToolTip": "D:\\C#\\ASP.Net\\CrossPagePosting\\CrossPagePosting\\index.aspx.cs",
+              "RelativeToolTip": "CrossPagePosting\\index.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:51:26.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pyament-page.aspx",
+              "DocumentMoniker": "D:\\C#\\ASP.Net\\CrossPagePosting\\CrossPagePosting\\pyament-page.aspx",
+              "RelativeDocumentMoniker": "CrossPagePosting\\pyament-page.aspx",
+              "ToolTip": "D:\\C#\\ASP.Net\\CrossPagePosting\\CrossPagePosting\\pyament-page.aspx",
+              "RelativeToolTip": "CrossPagePosting\\pyament-page.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-18T11:41:25.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.aspx",
+              "DocumentMoniker": "D:\\C#\\ASP.Net\\CrossPagePosting\\CrossPagePosting\\index.aspx",
+              "RelativeDocumentMoniker": "CrossPagePosting\\index.aspx",
+              "ToolTip": "D:\\C#\\ASP.Net\\CrossPagePosting\\CrossPagePosting\\index.aspx",
+              "RelativeToolTip": "CrossPagePosting\\index.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-18T11:41:03.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
