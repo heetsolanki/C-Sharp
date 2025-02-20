@@ -1,0 +1,7 @@
+<!DOCTYPE car [
+    <!ELEMENT car (company, model, color, price)>
+    <!ELEMENT company (#PCDATA)>
+    <!ELEMENT model (#PCDATA)>
+    <!ELEMENT color (#PCDATA)>
+    <!ELEMENT price (#PCDATA)>
+]>

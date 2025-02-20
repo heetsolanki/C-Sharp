@@ -1,0 +1,13 @@
+<!DOCTYPE bookstore SYSTEM "bookstore.dtd">
+<bookstore>
+    <book ISBN="12589634">
+        <title>Harry Potter</title>
+        <author>J.K. Rowling</author>
+        <price>29.99</price>
+    </book>
+    <book ISBN="12589635">
+        <title>Lord of the Rings</title>
+        <author>J.R.R. Tolkien</author>
+        <price>39.99</price>
+    </book>
+</bookstore>

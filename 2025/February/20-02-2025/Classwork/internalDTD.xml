@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <id>31011223068</id>
+    <name>Heet Solanki</name>
+    <marks>
+        <subject1>90</subject1>
+        <subject2>85</subject2>
+    </marks>
+    <percentage>87.5</percentage>
+</student>

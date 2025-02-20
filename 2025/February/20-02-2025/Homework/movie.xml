@@ -1,0 +1,12 @@
+<!DOCTYPE movie [
+    <!ELEMENT movie (title, director, actors)>
+    <!ELEMENT title (#PCDATA)>
+    <!ELEMENT director (#PCDATA)>
+    <!ELEMENT actors (#PCDATA)>
+]>
+
+<movie>
+    <title>Harry Potter</title>
+    <director>David Yates</director>
+    <actors>Daniel Radcliffe, Emma Watson, Rupert Grint</actors>
+</movie>

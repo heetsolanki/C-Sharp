@@ -1,0 +1,14 @@
+<!DOCTYPE employee [
+    <!ELEMENT employee (name, age, department, salary)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT age (#PCDATA)>
+    <!ELEMENT department (#PCDATA)>
+    <!ELEMENT salary (#PCDATA)>
+]>
+
+<employee>
+    <name>Heet Solanki</name>
+    <age>18</age>
+    <department>IT</department>
+    <salary>50000</salary>
+</employee>

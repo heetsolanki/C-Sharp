@@ -1,0 +1,15 @@
+zzzz
+<!DOCTYPE address [
+    <!ELEMENT address (name, city, state, country)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT city (#PCDATA)>
+    <!ELEMENT state (#PCDATA)>
+    <!ELEMENT country (#PCDATA)>
+]>
+
+<address>
+    <name>Heet Solanki</name>
+    <city>Mumbai</city>
+    <state>Maharahstra</state>
+    <country>India</country>
+</address>
