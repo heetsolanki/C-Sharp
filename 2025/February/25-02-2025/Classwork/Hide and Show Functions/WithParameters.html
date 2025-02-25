@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hide & Show Function with parameters</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#hide-btn").click(function () {
+                $("#para-1").hide("fast");
+                $("#para-2").hide("slow");
+                $("#para-3").hide(50);
+                $("#para-4").hide(1000);
+                $("#para-5").hide(2500);
+            });
+            $("#show-btn").click(function () {
+                $("#para-1").show("fast");
+                $("#para-2").show("slow");
+                $("#para-3").show(50);
+                $("#para-4").show(1000);
+                $("#para-5").show(2500);
+            });
+        });
+    </script>
+</head>
+<body>
+    <button id="hide-btn">Hide Paragraph</button>
+    <button id="show-btn">Show Paragraph</button>
+    <p id="para-1">This is paragraph 1.</p>
+    <p id="para-2">This is paragraph 2.</p>
+    <p id="para-3">This is paragraph 3.</p>
+    <p id="para-4">This is paragraph 4.</p>
+    <p id="para-5">This is paragraph 5.</p>
+</body>
+</html>

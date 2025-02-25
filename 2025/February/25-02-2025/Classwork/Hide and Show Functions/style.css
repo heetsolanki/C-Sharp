@@ -1,0 +1,27 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px;
+}
+p {
+    background-color: yellow;
+    padding: 15px;
+    border: 1px solid black;
+}
+button {
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+    cursor: pointer;
+    margin-right: 10px;
+}
+#hide-btn:hover {
+    transition: ease-in-out 0.3s;
+    transform: scale(1.05);
+    box-shadow: 0px 0px 10px 5px rgba(255, 0, 0, 0.3);
+}
+#show-btn:hover {
+    transition: ease-in-out 0.3s;
+    transform: scale(1.05);
+    box-shadow: 0px 0px 10px 5px rgba(0, 255, 0, 0.3);
+}

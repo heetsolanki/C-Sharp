@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hide & Show Function without parameters</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#hide-btn").click(function () {
+                $("p").hide();
+            });
+            $("#show-btn").click(function () {
+                $("p").show();
+            });
+        });
+    </script>
+</head>
+<body>
+    <button id="hide-btn">Hide Paragraph</button>
+    <button id="show-btn">Show Paragraph</button>
+    <p>This is paragraph 1.</p>
+    <p>This is paragraph 2.</p>
+    <p>This is paragraph 3.</p>
+</body>
+</html>
