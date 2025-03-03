@@ -1,0 +1,28 @@
+<?xml-stylesheet type="text/css" href="employee.css"?>
+<!DOCTYPE employees [
+    <!ELEMENT employee (name, address, department, gender)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT age (#PCDATA)>
+    <!ELEMENT department (#PCDATA)>
+    <!ELEMENT salary (#PCDATA)>
+]>
+<employees>
+    <employee>
+        <name>Heet Solanki</name>
+        <address>Andheri</address>
+        <department>IT</department>
+        <gender>Male</gender>
+    </employee>
+    <employee>
+        <name>Janhavi Shigwan</name>
+        <address>Badlapur</address>
+        <department>HR</department>
+        <gender>Female</gender>
+    </employee>
+    <employee>
+        <name>Sohan Thakur</name>
+        <address>Borivali</address>
+        <department>Creative</department>
+        <gender>Male</gender>
+    </employee>
+</employees>
