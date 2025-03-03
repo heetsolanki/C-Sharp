@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\ASP.Net\\Sessions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D33A4FC-59D3-4091-A5DD-5CA926525947}|Sessions\\Sessions.csproj|d:\\c#\\asp.net\\sessions\\sessions\\book.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8D33A4FC-59D3-4091-A5DD-5CA926525947}|Sessions\\Sessions.csproj|solutionrelative:sessions\\book.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D33A4FC-59D3-4091-A5DD-5CA926525947}|Sessions\\Sessions.csproj|d:\\c#\\asp.net\\sessions\\sessions\\display.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8D33A4FC-59D3-4091-A5DD-5CA926525947}|Sessions\\Sessions.csproj|solutionrelative:sessions\\display.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D33A4FC-59D3-4091-A5DD-5CA926525947}|Sessions\\Sessions.csproj|d:\\c#\\asp.net\\sessions\\sessions\\display.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D33A4FC-59D3-4091-A5DD-5CA926525947}|Sessions\\Sessions.csproj|solutionrelative:sessions\\display.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D33A4FC-59D3-4091-A5DD-5CA926525947}|Sessions\\Sessions.csproj|d:\\c#\\asp.net\\sessions\\sessions\\sport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8D33A4FC-59D3-4091-A5DD-5CA926525947}|Sessions\\Sessions.csproj|solutionrelative:sessions\\sport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D33A4FC-59D3-4091-A5DD-5CA926525947}|Sessions\\Sessions.csproj|d:\\c#\\asp.net\\sessions\\sessions\\sport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D33A4FC-59D3-4091-A5DD-5CA926525947}|Sessions\\Sessions.csproj|solutionrelative:sessions\\sport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D33A4FC-59D3-4091-A5DD-5CA926525947}|Sessions\\Sessions.csproj|d:\\c#\\asp.net\\sessions\\sessions\\book.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D33A4FC-59D3-4091-A5DD-5CA926525947}|Sessions\\Sessions.csproj|solutionrelative:sessions\\book.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "display.aspx.cs",
+              "DocumentMoniker": "D:\\C#\\ASP.Net\\Sessions\\Sessions\\display.aspx.cs",
+              "RelativeDocumentMoniker": "Sessions\\display.aspx.cs",
+              "ToolTip": "D:\\C#\\ASP.Net\\Sessions\\Sessions\\display.aspx.cs",
+              "RelativeToolTip": "Sessions\\display.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:03:44.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "display.aspx",
+              "DocumentMoniker": "D:\\C#\\ASP.Net\\Sessions\\Sessions\\display.aspx",
+              "RelativeDocumentMoniker": "Sessions\\display.aspx",
+              "ToolTip": "D:\\C#\\ASP.Net\\Sessions\\Sessions\\display.aspx",
+              "RelativeToolTip": "Sessions\\display.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-03T11:02:46.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sport.aspx.cs",
+              "DocumentMoniker": "D:\\C#\\ASP.Net\\Sessions\\Sessions\\sport.aspx.cs",
+              "RelativeDocumentMoniker": "Sessions\\sport.aspx.cs",
+              "ToolTip": "D:\\C#\\ASP.Net\\Sessions\\Sessions\\sport.aspx.cs",
+              "RelativeToolTip": "Sessions\\sport.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:02:19.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sport.aspx",
+              "DocumentMoniker": "D:\\C#\\ASP.Net\\Sessions\\Sessions\\sport.aspx",
+              "RelativeDocumentMoniker": "Sessions\\sport.aspx",
+              "ToolTip": "D:\\C#\\ASP.Net\\Sessions\\Sessions\\sport.aspx",
+              "RelativeToolTip": "Sessions\\sport.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-03T11:00:09.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "book.aspx.cs",
+              "DocumentMoniker": "D:\\C#\\ASP.Net\\Sessions\\Sessions\\book.aspx.cs",
+              "RelativeDocumentMoniker": "Sessions\\book.aspx.cs",
+              "ToolTip": "D:\\C#\\ASP.Net\\Sessions\\Sessions\\book.aspx.cs",
+              "RelativeToolTip": "Sessions\\book.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:59:23.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "book.aspx",
+              "DocumentMoniker": "D:\\C#\\ASP.Net\\Sessions\\Sessions\\book.aspx",
+              "RelativeDocumentMoniker": "Sessions\\book.aspx",
+              "ToolTip": "D:\\C#\\ASP.Net\\Sessions\\Sessions\\book.aspx",
+              "RelativeToolTip": "Sessions\\book.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-03T10:54:04.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
