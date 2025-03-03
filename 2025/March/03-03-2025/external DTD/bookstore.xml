@@ -1,0 +1,18 @@
+<!DOCTYPE bookstore SYSTEM "bookstore.dtd">
+<bookstore>
+    <book>
+        <title>Harry Potter</title>
+        <author>J.K. Rowling</author>
+        <price>29.99</price>
+    </book>
+    <book>
+        <title>Lord of the Rings</title>
+        <author>J.R.R. Tolkien</author>
+        <price>39.99</price>
+    </book>
+    <book>
+        <title>The Naga Warriors - 1</title>
+        <author>Akshat Gupta</author>
+        <price>89.99</price>
+    </book>
+</bookstore>
