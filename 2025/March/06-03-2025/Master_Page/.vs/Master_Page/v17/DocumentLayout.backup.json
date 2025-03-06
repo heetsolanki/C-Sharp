@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\ASP.Net\\Master_Page\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92E09382-3844-44D1-9F5F-3322AE36F9A4}|Master_Page\\Master_Page.csproj|d:\\c#\\asp.net\\master_page\\master_page\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{92E09382-3844-44D1-9F5F-3322AE36F9A4}|Master_Page\\Master_Page.csproj|solutionrelative:master_page\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E09382-3844-44D1-9F5F-3322AE36F9A4}|Master_Page\\Master_Page.csproj|d:\\c#\\asp.net\\master_page\\master_page\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{92E09382-3844-44D1-9F5F-3322AE36F9A4}|Master_Page\\Master_Page.csproj|solutionrelative:master_page\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E09382-3844-44D1-9F5F-3322AE36F9A4}|Master_Page\\Master_Page.csproj|d:\\c#\\asp.net\\master_page\\master_page\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{92E09382-3844-44D1-9F5F-3322AE36F9A4}|Master_Page\\Master_Page.csproj|solutionrelative:master_page\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E09382-3844-44D1-9F5F-3322AE36F9A4}|Master_Page\\Master_Page.csproj|d:\\c#\\asp.net\\master_page\\master_page\\courses.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{92E09382-3844-44D1-9F5F-3322AE36F9A4}|Master_Page\\Master_Page.csproj|solutionrelative:master_page\\courses.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E09382-3844-44D1-9F5F-3322AE36F9A4}|Master_Page\\Master_Page.csproj|d:\\c#\\asp.net\\master_page\\master_page\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{92E09382-3844-44D1-9F5F-3322AE36F9A4}|Master_Page\\Master_Page.csproj|solutionrelative:master_page\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E09382-3844-44D1-9F5F-3322AE36F9A4}|Master_Page\\Master_Page.csproj|d:\\c#\\asp.net\\master_page\\master_page\\contact-us.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{92E09382-3844-44D1-9F5F-3322AE36F9A4}|Master_Page\\Master_Page.csproj|solutionrelative:master_page\\contact-us.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\C#\\ASP.Net\\Master_Page\\Master_Page\\style.css",
+              "RelativeDocumentMoniker": "Master_Page\\style.css",
+              "ToolTip": "D:\\C#\\ASP.Net\\Master_Page\\Master_Page\\style.css",
+              "RelativeToolTip": "Master_Page\\style.css",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-06T12:51:31.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "courses.aspx",
+              "DocumentMoniker": "D:\\C#\\ASP.Net\\Master_Page\\Master_Page\\courses.aspx",
+              "RelativeDocumentMoniker": "Master_Page\\courses.aspx",
+              "ToolTip": "D:\\C#\\ASP.Net\\Master_Page\\Master_Page\\courses.aspx",
+              "RelativeToolTip": "Master_Page\\courses.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-06T12:49:36.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "registration.aspx",
+              "DocumentMoniker": "D:\\C#\\ASP.Net\\Master_Page\\Master_Page\\registration.aspx",
+              "RelativeDocumentMoniker": "Master_Page\\registration.aspx",
+              "ToolTip": "D:\\C#\\ASP.Net\\Master_Page\\Master_Page\\registration.aspx",
+              "RelativeToolTip": "Master_Page\\registration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-06T12:49:24.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "contact-us.aspx",
+              "DocumentMoniker": "D:\\C#\\ASP.Net\\Master_Page\\Master_Page\\contact-us.aspx",
+              "RelativeDocumentMoniker": "Master_Page\\contact-us.aspx",
+              "ToolTip": "D:\\C#\\ASP.Net\\Master_Page\\Master_Page\\contact-us.aspx",
+              "RelativeToolTip": "Master_Page\\contact-us.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-06T12:48:59.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "home.aspx",
+              "DocumentMoniker": "D:\\C#\\ASP.Net\\Master_Page\\Master_Page\\home.aspx",
+              "RelativeDocumentMoniker": "Master_Page\\home.aspx",
+              "ToolTip": "D:\\C#\\ASP.Net\\Master_Page\\Master_Page\\home.aspx",
+              "RelativeToolTip": "Master_Page\\home.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-06T12:48:44.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "D:\\C#\\ASP.Net\\Master_Page\\Master_Page\\Site1.Master",
+              "RelativeDocumentMoniker": "Master_Page\\Site1.Master",
+              "ToolTip": "D:\\C#\\ASP.Net\\Master_Page\\Master_Page\\Site1.Master",
+              "RelativeToolTip": "Master_Page\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-06T12:48:18.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

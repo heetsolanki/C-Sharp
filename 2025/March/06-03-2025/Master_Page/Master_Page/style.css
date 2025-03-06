@@ -1,0 +1,99 @@
+﻿body {
+    font-family: Calibri;
+}
+
+#register {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#master {
+    text-align: center;
+    margin-top: 20px;
+    background-color: #e0fbfc;
+    padding: 15px;
+    border-radius: 50px;
+    border: 2px solid #293241;
+}
+
+a {
+    text-decoration: none;
+    margin: 0px 40px 40px 0px;
+    font-size: 25px;
+    color: #293241;
+}
+
+    a:hover {
+        text-decoration: underline;
+        transition: 0.5s ease-in-out;
+    }
+
+.container {
+    text-align: center;
+    margin: 20px 350px 0px 350px;
+    background-color: #98c1d9;
+    padding: 35px;
+    border-radius: 15px;
+    border: 2px solid #293241;
+}
+
+    .container:hover {
+        transition: 0.3s ease-in-out;
+        box-shadow: 0px 5px 20px 0px rgba(61, 90, 128, 0.5)
+    }
+
+.heading {
+    font-size: 50px;
+    font-weight: bold;
+    color: #293241;
+    text-align: center;
+    display: block;
+}
+
+.paragraph {
+    font-size: 25px;
+    color: #293241;
+    text-align: center;
+    display: block;
+}
+
+li {
+    text-align: left;
+    font-size: 20px;
+    color: #293241;
+}
+
+.input-label {
+    font-size: 25px;
+    color: #293241;
+}
+
+.input-field {
+    font-size: 20px;
+    color: #293241;
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid #293241;
+}
+
+    .input-field:hover {
+        transition: 0.3s ease-in-out;
+        box-shadow: 0px 5px 20px 0px rgba(61, 90, 128, 0.5);
+    }
+
+.submit-btn {
+    font-size: 20px;
+    color: #293241;
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid #293241;
+    background-color: #ee6c4d;
+    cursor: pointer;
+}
+
+    .submit-btn:hover {
+        transition: 0.3s ease-in-out;
+        box-shadow: 0px 5px 20px 0px rgba(61, 90, 128, 0.5);
+    }
