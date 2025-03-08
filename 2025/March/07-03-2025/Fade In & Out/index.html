@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Fade In & Out</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $(".fade-in").click(function () {
+                $(".fade").fadeIn('fast');
+            });
+            $(".fade-out").click(function () {
+                $(".fade").fadeOut('fast');
+            });
+        })
+    </script>
+</head>
+<body>
+    <button class="fade-out">Fade Out</button>
+    <button class="fade-in">Fade In</button>
+    <p class="fade">This is a paragraph.</p>
+</body>
+</html>
