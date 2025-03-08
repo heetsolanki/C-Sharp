@@ -1,0 +1,12 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.hover {
+    background-color: green;
+    color: white;
+    transition: 0.25s ease-in-out all;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+}

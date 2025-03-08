@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Mouse Event</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $(".hover").mouseenter(function () {
+                $("h1").hide('500');
+            });
+            $(".hover").mouseleave(function () {
+                $("h1").show('500');
+            });
+        })
+    </script>
+</head>
+<body>
+    <button class="hover">Hover over me</button>
+    <h1>Hover over the button to hide this text!</h1>
+</body>
+</html>
