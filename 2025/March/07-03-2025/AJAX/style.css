@@ -1,0 +1,20 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2 {
+    font-size: 35px;
+    color: chocolate;
+}
+
+button {
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: green;
+    color: white;
+    transition: 0.3s ease-in-out all;
+}

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>AJAX Example</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="fav">
+        <h2>The XMLHttpRequest Object</h2>
+        <button type="button" onclick="ChangeContent()">Change Content</button>
+    </div>
+    <script>
+        function ChangeContent() {
+            var xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function() {
+                if(this.readyState == 4 && this.status == 200) {
+                    document.getElementById("fav").innerHTML = this.responseText;
+                }
+            };
+            xhttp.open("GET", "ajax_info.txt", true);
+            xhttp.send();
+        }
+    </script>
+</body>
+</html>
